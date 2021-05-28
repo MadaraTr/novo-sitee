@@ -1,0 +1,37 @@
+h1{
+    height: 10vh;
+    width: 100vw;
+    background-color: rgb(29,20, 150);
+    color: white;
+    border-bottom: solid white 10px;
+    text-align: center;
+}
+.produto{
+    height: 50vh;
+    width: 20vw;
+    background-color: blue;
+    color: white;
+    margin:10px;
+    border-radius: 20px;
+    
+}
+body{
+    background-image: url(img/fundo-abstrato-colorido_23-2148807053.jpg);
+    background-size: cover;
+}
+.anime{
+   margin: 10px;
+   height: 50vh;
+   width: 20vw;
+   background-color: blue;
+   color: white;
+   border-radius: 20px;
+}
+.iphone{
+    margin: 10px;
+    height: 50vh;
+    width: 20vw;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+}
